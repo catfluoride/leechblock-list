@@ -1,6 +1,6 @@
 *.meneame.net
 *.reddit.com
-*.forocoches.com
+forocoches.com
 lemm.ee
 mstdn.social
 phoronix.com
